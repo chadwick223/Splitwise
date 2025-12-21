@@ -1,0 +1,18 @@
+{% extends 'split/base.html' %}
+{% load static %}
+{% block title %}Create Group{% endblock %}
+
+{% block content %}
+    <h2>Create a New Group</h2>
+
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Create Group</button>
+    </form>
+
+    <div class="mt-3">
+        <a href="{% url 'home' %}">← Back to Home</a>
+    </div>
+{% endblock %}
+
