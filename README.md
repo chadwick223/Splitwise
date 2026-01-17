@@ -1,12 +1,5 @@
 <h1>Demo  (https://drive.google.com/file/d/1TOuUUazncxMub2X1lsrQMdsRIAZkXq_o/view?usp=sharing)</h1>
 
-<h2>There are few things that i haven't implimented </h2>
-
-1) Add extra memebers in the existing group ( i know without it we can't see debt simplification working but work is in progress)
-
-2) Also i want user to able to view their personal balancesheet not the common one
-
-3)There has to be optioin of settling debt (ofcourse i can't make payments but there should be something that allow user to settle debt , only then they can leave the geoup) 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
