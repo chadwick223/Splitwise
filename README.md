@@ -3,7 +3,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-with that out of the way let's start with lld diagram of this Epense splitting application (web app actually since i do not know app dev namely flutter n all)
 
 <h2>LLD are devided into three parts </h2>
 
